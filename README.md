@@ -6,14 +6,15 @@ In today's data-driven world, businesses often rely on data analysis to make inf
 
 #     Dataset Overview 
 The dataset includes the following columns: 
-Date: The date when the transaction occurred.
-Items: The type of phone associated with the transaction (e.g., iPhone, Samsung Galaxy).
-Price: The price of the item.
-Quantity: The number of items sold in the transaction.
-Discount: The discount applied to the item in percentage.
-TotalPrice: The total price i calculated after applying the discount.
-FinalPrice: The final price after i included a fixed tax rate of 10%.
-OriginalTotalPrice: The total price before i applyied any discounts.
+1. Date: The date when the transaction occurred.
+2. FullName: Customer's name.
+4. Items: The type of phone associated with the transaction (e.g., iPhone, Samsung Galaxy).
+5. Price: The price of the item.
+6. Quantity: The number of items sold in the transaction.
+7. Discount: The discount applied to the item in percentage.
+8. TotalPrice: The total price i calculated after applying the discount.
+9. FinalPrice: The final price after i included a fixed tax rate of 10%.
+10. OriginalTotalPrice: The total price before i applyied any discounts.
 
 
 #     Objectives

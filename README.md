@@ -28,6 +28,7 @@ My primary objectives of this analysis are:
 #     Methodology
 
 Data Generation: 
+
 I synthetically generated the data using Faker library to create realistic, random data points for each column, aside the calculated columns. 
 
 #     Overview of the data generation process: 
@@ -39,7 +40,7 @@ Prices, Quantities, Discounts: I randomly assigned values within specified range
 
 I created several visualizations to explore and present the data effectively:
 1. Distribution of Prices: A histogram showing the frequency of different price values in the dataset.
-2. Quantity vs. TotalPrice Scatter Plot: Here i have scatter plot illustrating the relationship between the quantity of items sold and the total price.
+ 2. Quantity vs. TotalPrice Scatter Plot: Here i have scatter plot illustrating the relationship between the quantity of items sold and the total price.
 3. Discount Distribution by Item(PhoneName): I plot a box plot comparing discount distributions across different phone types.
 4. Count of Items Sold by Phone Name: A count plot illustrating the number of items sold for each phone type.
 
